@@ -1,0 +1,15 @@
+type Initial {
+  test: Boolean!
+}
+
+input InitialInput {
+  test: Boolean!
+}
+
+extend type Query {
+  getInitial: Initial!
+}
+
+extend type Mutation {
+  setInitial(initialInput: InitialInput!): Initial
+}

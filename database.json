@@ -1,0 +1,17 @@
+{
+  "defaultEnv": "local",
+  "local": {
+    "driver": "pg",
+    "user": "REPLACE_WITH_DB_USERNAME",
+    "password": "REPLACE_WITH_DB_PASSWORD",
+    "host": "REPLACE_WITH_DB_HOST",
+    "database": "REPLACE_WITH_DB_DATABASE"
+  },
+  "develop": {
+    "driver": "pg",
+    "user": { "ENV": "DB_USERNAME" },
+    "password": { "ENV": "DB_PASSWORD" },
+    "host": { "ENV": "DB_HOST" },
+    "database": "axis"
+  }
+}

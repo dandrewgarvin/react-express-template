@@ -15,3 +15,4 @@
 - [ ] Add basic JWT auth
 - [ ] Add ORM data models
 - [ ] Separate front- and back-end into separate templates
+- [ ] Add styleguide

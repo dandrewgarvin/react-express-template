@@ -16,3 +16,4 @@
 - [ ] Add ORM data models
 - [ ] Separate front- and back-end into separate templates
 - [ ] Add styleguide
+- [ ] Add config file to front- and back-end structures to contain all template REPLACE_WITH tags for ease of use

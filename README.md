@@ -44,7 +44,7 @@ This template is intended to be an out-of-the-box way to set up a new project in
 
 ### Create new repo
 
-Do not use this template directly. You must create a new repo on your own github account using this template (this is all done on the github.com website).
+Do not use this template directly. You must create a new repo on your own github account using this template (you can follow the guide [here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template));
 
 Once you have created a new repo off of this template, clone and download it to your computer.
 
